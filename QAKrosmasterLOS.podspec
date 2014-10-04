@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/QuentinArnault/KrosmasterLOS.git", :tag => "0.0.1" }
 
-  s.resources = "jquery.ba-dotimeout.js", "Krosmaster_FOV.html", "QR.png", "target.png", "viewLine.css", "viewLineFull.js"
+  s.resources = "jquery.ba-dotimeout.js", "Krosmaster_FOV_fr.html", "Krosmaster_FOV_en.html", "QR.png", "target.png", "viewLine.css", "viewLineFull.js", "cache"
 
 end
